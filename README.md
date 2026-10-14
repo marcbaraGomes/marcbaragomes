@@ -1,5 +1,5 @@
 <div align="center">
-# Marcos Antonio Barata Gomes
+Marcos Antonio Barata Gomes
 </div>  
 
 <div align="center">
