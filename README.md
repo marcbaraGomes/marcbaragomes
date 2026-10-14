@@ -2,8 +2,6 @@
 
 <div align="center">
 
-# Marc Bara Gomes
-
 **Software Engineer | Systems Analyst | Software Development & Enterprise Integration**
 
 Fortaleza, Ceará, Brazil
